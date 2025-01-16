@@ -1,0 +1,9 @@
+{
+  "name": "easy-power",
+  "version": "0.1.0",
+  "title": "Easy Power",
+  "author": "cpt_dreamchaser",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Adds the electric-energy-interface as a cheap craftable item early-game for easy power."
+}
